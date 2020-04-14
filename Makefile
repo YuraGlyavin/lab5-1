@@ -1,6 +1,3 @@
 all:
-	g++ main.cpp -o main
-	
-run:
-	main
-	
+	g++ lab5var13.cpp -o main
+	./main
